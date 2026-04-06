@@ -4,7 +4,7 @@ baseurl: "/diary-of-a-white-collar-worker"
 theme: minima
 
 author:
-  name: CWCW
+  name: Gandavensis
 
 header_pages:
   - about.md
